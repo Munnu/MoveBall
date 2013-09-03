@@ -1,0 +1,7 @@
+This revisits on an old homework assignment in 2010. I redid it because it was a challenge for me and my partner at the time. I wanted to gauge my progress as a programmer. This assignment was originally discussed in class, then a lab, then the final homework assignment. The lab was easier than the homework assignment itself, meaning it was similar but had a twist to it which required more thinking and understanding the module and what you can do with it. I think that was one of the biggest hurdles at the time. Doing it a second time of course took me a shorter time to do (in terms of days), and I got further than I did the first time and added more functionality to it. The other catch to this program is the limits of the module and using only functions. Others have pointed out that it is significantly less clumsy to use objects instead of functions (the assignment dealt with functions), others suggested using Tkinker which is a subset of the module.
+
+The program is mostly complete, there are a few glitches which is relative to working around the module and using only functions such as the balls being drawn within the bounds of the obstacle block and trying to repel it, and the balls going outside of the bounds of the screen if collided close to the edge of the screen bounds.
+
+The program description is in the python file, and the two screenshots display the behavior of the homework file: moveball 2.py
+
+This repository contains moveball 2.py - the homework, movingball.py - the lab, and the module.
